@@ -32,7 +32,7 @@ int main (void) {
 	return 0;
 }
 
-/*
+/**
 * Funcão que a thread executa
 *
 * @param vargp Argumento passado para a thread (indice da mensagem a imprimir)

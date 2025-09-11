@@ -58,7 +58,7 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
-/*
+/**
 * Funcao executada pela thread
 * @param parm Ponteiro para os parâmetros da thread (deve ser convertido para thread_parm_t *)
 * @return NULL

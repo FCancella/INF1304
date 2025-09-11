@@ -24,7 +24,7 @@ int main (void) {
 	return 0;
 }
 
-/*
+/**
 * Função super legal
 *@param vargp Argumento passado para a thread (não usado)
 *@return NULL
